@@ -69,3 +69,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ## My Notes.
 npm install node-sass --save
+npm install firebase
