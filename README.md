@@ -71,3 +71,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 npm install node-sass --save
 npm install firebase
 npm install redux redux-logger react-redux
+npm install reselect
+npm install redux-persist
+npm install typescript
+
+> UTF-8 Dingbats
