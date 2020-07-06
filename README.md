@@ -75,4 +75,9 @@ npm install reselect
 npm install redux-persist
 npm install typescript
 
+npm install react-stripe-checkout
+npm install styled-components
+
 > UTF-8 Dingbats
+
+npm install redux-thunk
